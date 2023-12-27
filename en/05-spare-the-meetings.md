@@ -21,6 +21,9 @@ Get rid of low-value meetings — status meetings, high-frequency all-hands — 
 - [Laker, B., Pereira, V., Malik, A., Soga, L. (2022, March). Dear Manager, You're Holding Too Many Meetings. _Harvard Business Review_.](https://hbr.org/2022/03/dear-manager-youre-holding-too-many-meetings)
 Research shows that 70% of meetings keep employees from doing productive work. Deliberate and asynchronous approaches can alleiviate the problem.
 
+- [Rossi, L. (2023, February 9). How to Reduce Meetings. _Refactoring._](https://refactoring.fm/p/how-to-remove-meetings)
+Strategies and practical ideas for better async communication, and a detailed case study.
+
 - [Graham, P. (2009, July 5). Maker's Schedule, Manager's Schedule. _PaulGraham.com_.](http://www.paulgraham.com/makersschedule.html)
 Graham posits that managers' schedules are typically segmented into one-hour intervals for meetings, while makers (like programmers or writers) prefer long, uninterrupted blocks of time to be productive in their creative or technical work.
 
