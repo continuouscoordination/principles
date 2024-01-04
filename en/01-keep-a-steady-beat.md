@@ -4,15 +4,19 @@
 
 ## The theory
 
-Modern organizations, where work happens over a variety of schedules and physical locations, face the challenge of picking between infrequent alignment (for example, quarterly roadmap planning) and frequent, manual alignment (daily meetings or ad-hoc interruptions).
+Company and team alignment has a half-life. It’s highest after that all-hands presentation or quarterly goal-setting session, but memory fades and static docs tend to collect dust in the face of day-to-day work. If you want to stay aligned, you have to feed it.
 
-This dilemma creates an *alignment trap*. Infrequent alignment can lead to outdated information guiding decisions, or a mixture of old and new information that causes “alignment drift.” Sure, there’s plenty of space and time for deep work, but the danger is that this work may be toward the wrong end, leading to wasted hours, days, or even weeks before communication catches up to the pace of the work. On the other hand, frequent, manual alignment consumes valuable work time and undercuts the actual utility of meetings: what work does happen is often exclusively for the meeting itself. Companies that default communication to meetings don’t meet to work; *they work to meet*.
+The problem is, **meetings are too inefficient to keep up with the half-life of alignment.** Without a more efficient approach, companies get caught in an *alignment trap*; you either have strong alignment and a velocity problem (AKA the "I do my work after work" problem), or weak alignment and a “cats in a bag” problem where teams are misaligned, working in the wrong direction, or actively undermining each other. Either end represents a serious risk.
 
-To align teams and people, adopt a *dual-loop communication strategy*, with *high-frequency loops for individual teams* and *low-frequency loops for teams across the organization*.
+What’s worse, meetings and other ad-hoc approaches are *brittle*. They depend on everyone doing the right thing, on their own, day in, day out. That works for small teams, but 50 people? 500? 5000? The odds aren’t in your favor. Adopting an ad-hoc approach is *actively signing up for endless process policing*.
 
-High-frequency update loops — like brief, asynchronous daily check-ins from team members — enable individual teams to prioritize tasks and objectives, address budding issues, and coordinate action plans. Lower-frequency update loops — like mid-term risk assessments of long-term goals in progress — align multiple teams and address higher-level or organization-wide endeavors.
+The way out? Take a page from the [Continuious Integration](https://en.wikipedia.org/wiki/Continuous_integration) playbook by breaking alignment work down into smaller, higher-frequency, automated async loops. Daily within teams, weekly/bi-weekly/monthly across teams.
 
-A dual-loop communication strategy streamlines alignment and promotes balance, consistency, and steady engagement across the organization. Plenty of space is opened up for deep work without sacrificing continuous context and while maintaining collaborative momentum.
+**Daily loops** keep individual teams in tight sync, and help individual contributors prioritize tasks, address budding issues, and coordinate action plans.
+
+**Weekly/bi-weekly/monthly loops** -- like updates on a team or company-level goal -- keep multiple teams and entire companies aligned by providing everyone summary-level insight into where things stand.
+
+This dual loop strategy cuts the alignment trap [Gordian Knot](https://en.wikipedia.org/wiki/Gordian_Knot). Everyone up and down the org has complete context day in, day out, *and* plenty of time for deep work. Even better, you have a full record of history of who’s done what and why, and nobody gets saddled with the frustrating, low-value process police job. It’s a game changer for working as a team.
 
 ## Further reading
 

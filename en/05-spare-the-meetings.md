@@ -4,17 +4,17 @@
 
 ## The theory
 
-“Meeting hours” are the most precious commodity in a knowledge organization, but they come with significant downsides:
+“Meeting hours” are the most precious commodity in a knowledge organization. They carry a high cost, but are incredibly valuable when used right. 
 
-- Meetings are expensive in shear payroll consumption, to the tune of _hundreds of millions of dollars_ at large companies.
-- Meetings are zero-sum. You’re either talking about the work, or doing the work.
-- Excess meetings are not only universally loathed, but often lead to burn out and disengagement.
-- Rigid recurring meeting structures erase the flexibility advantage of remote and hybrid work.
-- Meetings erode deep-work: developers, designers, and many other contributors need large, uninterrupted blocks of time to get into flow state and create value. Nothing of significance is getting done in that 30-minute gap between meetings.
+- **Meetings are expensive.** Companies spend a disproportionate amount of payroll on meetings, to the tune of _hundreds of millions of dollars_ at large companies.
+- **Meetings are zero-sum.** You’re either talking about the work, or doing the work.
+- **Excess meetings are draining.** Too many meetings too much of the time leaves you with little energy for real work.
+- **Meetings are flexibility killers.** Rigid recurring meeting structures erase one of the biggest advantages of remote and hybrid work; *flexibility*.
+- **Meetings erode deep-work.** Knowledge workers like developers and designers need large, uninterrupted blocks of time to get into flow state do their best work. Nothing of significance is getting done in that 30-minute gap between meetings.
 
-Dissolving meetings altogether is not the answer. Meetings and 1:1s are absolutely vital, especially in remote and hybrid teams. Rich human interaction — collaborating, spit-balling, celebrating, commiserating, etc — is the foundation that great work and strong team culture is built on.
+Despite the price, meetings are *absolutely vital*, especially in remote and hybrid teams. Rich human interaction -- collaborating, spit-balling, celebrating, commiserating, etc -- is the foundation that great work and strong team culture is built on.
 
-Get rid of low-value meetings — status meetings, high-frequency all-hands — in favor of written asynchronous communication and save your meeting budget for high-value conferences and teamwork.
+Get rid of low-value meetings -- status meetings, high-frequency all-hands, etc. -- in favor of async updates and save your meeting budget for high-value collaboration and teamwork.
 
 ## Further reading
 

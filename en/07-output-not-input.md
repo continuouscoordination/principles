@@ -4,9 +4,9 @@
 
 ## The theory
 
-Knowledge work isn’t factory work. It's the organization and execution of ideas, and therefore hard to quantify as it happens — valuable solutions can arise when you’re walking the dog or chopping vegetables. A management approach based solely on inputs — commits pushed, bugs fixed, days and hours worked, meetings scheduled — is irrevocably flawed and privileges metrics over meaning.
+Knowledge work isn’t factory work. It’s the assimilation, organization, and execution of ideas, which may or may not correspond to a physical act. A programmer can have a breakthrough idea while walking their dog. A marketer can envision a groundbreaking campaign in the shower. That makes management approaches based on inputs — commits pushed, bugs fixed, days and hours worked, meetings scheduled — *irrevocably flawed*.
 
-Even worse, measuring inputs often amounts to survellience through the use of "bossware", a new crop of remote tools that incinerate the trust that high-performing organizations require to deliver. To satisy these tools, mistrusted and employees often "perform" work to boost their "productivity score" rather than actually doing it.
+Even worse, measuring inputs often leads to surveillance via “bossware”, a new crop of remote tools that incinerate trust and incentivize employees to “perform work” instead of doing actual high-value work.
 
 Instead, focus on the results that drive the business, like product goals, sales targets, quality standards, and customer impact. The only effective measures of knowledge work are output, quality, and outcomes, not inconsequential productivity metrics and performance theater.
 

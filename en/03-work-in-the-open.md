@@ -4,11 +4,13 @@
 
 ## The theory
 
-In many traditional organizations, information flows in one direction: up the hierarchy, making it harder to access the lower you sit. Transparent organizations allow everyone access to the context they need to make informed decisions at all times, reducing the need for red tape and interruptions.
+Everyone wants to build high-performing teams or be part of a high-performing team. One of the fundamental requirements of high performing teams is *trust*. You simply can’t get the former without the latter. How do you build trust amongst a group of people who don’t work together directly and might not ever meet face-to-face? By building a culture of transparency, where everyone works in the open.
 
-Transparency also encourages individuals to take ownership of their work and results, strengthening accountability across the organization. This model demystifies decision-making, promotes everyone’s engagement, and establishes interpersonal _trust – the proven key to high performance_.
+Working in the open stops “what is that person/team even doing?" in its tracks, promotes natural accountability, builds empathy for other disciplines, and gives people clear venues to talk about the work they did and *why* they did it.
 
-Trust requires leadership, but you can’t lead if you can’t be seen. Leaders and managers working in the open serve as powerful role models for desired behaviors within the organization. Organizational leaders build trust with their reports by constantly shining a light on their own questions, course-corrections, and decisions.
+In most traditional organizations, information flows in one direction: up. The lower you sit in the hierarchy, the less information and context you have. Transparent organizations invert that model by giving everyone unfettered access to information, maximizing context and minimizing red tape, interruptions, and waiting for answers.
+
+Building a transparent org requires leadership, but you can’t lead if you can’t be seen. Leaders and managers working in the open serve as powerful role models for the behavior you want to see, building trust by constantly shining a light on their own questions, course-corrections, and decisions.
 
 ## Further reading
 

@@ -4,11 +4,13 @@
 
 ## The theory
 
-People and teams do their best work when they understand _why_ that work matters, and why they’re uniquely suited to do it. So instead of deploying top-down management practices designed for the assembly line, provide a clear chain of goals rooted in the mission of the business, and let teams and people figure out how to get from A to B.
+Micromanagement doesn’t work. *Particularly* so when it comes to knowledge work. There’s few better ways to squash productivity, kill engagement, and increase turnover.
 
-Contributors who help shape their work expectations and goals (“I do X, it’s necessary in order to get us to Y”) report higher satisfaction, productivity, and engagement. Because their work is nourished by their own sense of purpose, they're more likely do it well, and less likely to overextend and burn out.
+People and teams do their best work when they understand _why_ the work matters and have a high degree of autonomy over how they pursue it. So instead of deploying top-down management practices that were designed for assembly line manufacturing work, focus on the outcomes or future state you want to see by setting high-level goals, and let teams and people figure out how to get from A to B.
 
-Establish context with shared goals that focus on outcomes rather than blow-by-blow processes, and consistently relate these goals to parent objectives, mission, and vision company-wide.
+Contributors who help shape their work expectations and goals (“I do X, it’s necessary in order to get us to Y”) report higher satisfaction, productivity, and engagement. Because their work is nourished by their own sense of purpose, they're far more likely do it well, and less likely to overextend and burn out.
+
+Consistency and clarity is key. Relate work back to goals, and goals back to company-wide mission and vision. Anyone and everyone should be able to articulate how their work fits into the big picture.
 
 ## Further reading
 
@@ -19,3 +21,5 @@ Why constant examination and communication of context and purpose is what it tru
 A comprehensive guide to effective business management, focusing on maximizing productivity and efficiency through systematic planning, decision-making, and team empowerment.
 
 - [Wodtke, J. (2016). _Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results_. Cucina Media LLC.](https://legacycatalog.nypl.org/record=b21942993~S1) Combining storytelling with practical advice, Christina Wodtke demonstrates that focusing on a small set of well-defined goals can drive progress, alignment, and success in an organization.
+
+- [Bielaszka-DuVernay, C. (2008). _Micromanage at Your Peril_](https://hbr.org/2008/02/micromanage-at-your-peril) A deeper dive into the counterproductive perils of micromanagement.
