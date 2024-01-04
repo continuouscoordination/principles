@@ -4,15 +4,15 @@
 
 ## The theory
 
-Declaring individual or group intentions — whether it be daily plans, weekly objectives, or long term goals — has major benefits for contributors, managers, and your business.
+Too many orgs default to a culture of working reactively -- addressing the new chat request that just popped up, the issue that landed on your plate, etc. -- and end up making very little forward progress on the high-impact work that's more important, but less urgent.
 
-Many organizations default to a culture of working reactively instead of proactively: constantly responding to the latest top-down requests and making little forward progress in the process.
+Consistently communicating intent -- via daily plans, weekly objectives, or long term goals -- is an inherently clarifying practice, and a way to shift your culture from reactive to proactive. It pushes people to focus on outcomes, and provides a simple, effective framework for prioritizing work.
 
-Routinely communicating intent across the whole organization is an inherently clarifying practice, and a way to shift from a reactive to a proactive culture. It forces authors to envision outcomes rather than blindly react, providing an effective framework for thinking through and prioritizing the work along the way.
+For managers, a culture of communicating intent is a *powerful* tool for eliminating risk. Managers have ample time to step in and course correct before days/weeks/months of time and resources get burned working in the wrong direction.
 
-Furthermore, it provides the least expensive mechanism to course correct and therefore de-risk: _before_ a contributor or team sinks valuable time and resources in the wrong direction.
+For contributors, the upside is more trust, and more autonomy. Consistent communication and consistent delivery lets managers and peers know that you're more than capable of working without heavy-handed intervention.
 
-Finally, authored intent builds trust and autonomy up and down an organization. As the practice develops, the intentions become more pointed, course-corrections become rarer, and the opportunities for trust-eroding micro-management disappear.
+As the practice develops, the intentions become more pointed, course-corrections become rare, and opportunities for trust-eroding micro-management disappear.
 
 ## Further reading
 

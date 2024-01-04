@@ -4,13 +4,15 @@
 
 ## The theory
 
-When it comes to knowledge work, writing is the most sustainable and efficient way to communicate. Asynchronous writing helps your organization to build an organized, searchable, interconnected database of context and information. Most importantly, it empowers people to manage complex data, collaborate, and make decisions autonomously.
+When it comes to knowledge work, nothing beats writing in terms of efficiency, flexibility, and clarity of message. Compared to formats like video, it’s cheap and easy to store, searchable by default, and accessible by default. Writing-first cultures makes it far easier to build and maintain a "company brain" of context and information; a powerful tool for empowering people to self-help and make decisions autonomously.
 
-Writing is the ultimate idea clarifier. Clear writing is clear thinking, and vice versa. It ensures that messages aren’t just conveyed; they’re understood and can be expanded upon. A culture of writing leads to both stronger alignment for less effort and fewer half-baked ideas.
+Writing is defacto asynchronous, which makes it a natural choice maximizing flexibility in remote and hybrid contexts. It doesn’t matter where people are working from, what time they’re working, or even what device they’re using. Write, post, and share; people will read and respond when they’re on.
 
-Even better, asynchronous writing has leveling effects, shifting the focus from the people who hog valuable meeting time to those who bring the most value to your goals. You want your best people, not your loudest. Writing promotes a culture where substance beats dominance.
+Writing is the ultimate idea clarifier, refining ideas into their sharpest form before they get shared. It ensures that messages aren’t just heard, but *understood*. A culture of writing leads to stronger alignment for less effort, and fewer half-baked ideas.
 
-Start with asynchronous writing and use other tools — like meetings — as they’re needed.
+Writing levels the playing field, shifting the focus from the people who talk loudest to those with the best ideas. Writing promotes a culture where substance beats dominance.
+
+Start with asynchronous writing and use other tools -- like meetings -- only when need be.
 
 ## Further reading
 
