@@ -6,15 +6,15 @@
 
 Company and team alignment has a half-life. It’s highest after that all-hands presentation or quarterly goal-setting session, but memory fades and static docs tend to collect dust in the face of day-to-day work. If you want to stay aligned, you have to feed it.
 
-The problem is, **meetings are too inefficient to keep up with the half-life of alignment.** Without a more efficient approach, companies get caught in an *alignment trap*; you either have strong alignment and a velocity problem (AKA the "I do my work after work" problem), or weak alignment and a “cats in a bag” problem where teams are misaligned, working in the wrong direction, or actively undermining each other. Either end represents a serious risk.
+The problem is, **meetings are too inefficient to keep up with the half-life of alignment.** Without a more efficient approach, companies get caught in an *alignment trap*; you either have strong alignment and a velocity problem (AKA the “I do my work after work” problem), or weak alignment and a “cats in a bag” problem where teams are misaligned, working in the wrong direction, or actively undermining each other. Either end represents a serious risk.
 
 What’s worse, meetings and other ad-hoc approaches are *brittle*. They depend on everyone doing the right thing, on their own, day in, day out. That works for small teams, but 50 people? 500? 5000? The odds aren’t in your favor. Adopting an ad-hoc approach is *actively signing up for endless process policing*.
 
-The way out? Take a page from the [Continuious Integration](https://en.wikipedia.org/wiki/Continuous_integration) playbook by breaking alignment work down into smaller, higher-frequency, automated async loops. Daily within teams, weekly/bi-weekly/monthly across teams.
+The way out? Take a page from the [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) playbook by breaking alignment work down into smaller, higher-frequency, automated async loops. Daily within teams, weekly/bi-weekly/monthly across teams.
 
 **Daily loops** keep individual teams in tight sync, and help individual contributors prioritize tasks, address budding issues, and coordinate action plans.
 
-**Weekly/bi-weekly/monthly loops** -- like updates on a team or company-level goal -- keep multiple teams and entire companies aligned by providing everyone summary-level insight into where things stand.
+**Weekly/bi-weekly/monthly loops** — like updates on a team or company-level goal — keep multiple teams and entire companies aligned by providing everyone summary-level insight into where things stand.
 
 This dual loop strategy cuts the alignment trap [Gordian Knot](https://en.wikipedia.org/wiki/Gordian_Knot). Everyone up and down the org has complete context day in, day out, *and* plenty of time for deep work. Even better, you have a full record of history of who’s done what and why, and nobody gets saddled with the frustrating, low-value process police job. It’s a game changer for working as a team.
 

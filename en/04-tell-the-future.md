@@ -4,13 +4,13 @@
 
 ## The theory
 
-Too many orgs default to a culture of working reactively -- addressing the new chat request that just popped up, the issue that landed on your plate, etc. -- and end up making very little forward progress on the high-impact work that's more important, but less urgent.
+Too many organizations default to a culture of working reactively — addressing the new chat request that just popped up, the issue that landed on your plate, etc. — and end up making very little forward progress on the high-impact work that’s more important, but less urgent.
 
-Consistently communicating intent -- via daily plans, weekly objectives, or long term goals -- is an inherently clarifying practice, and a way to shift your culture from reactive to proactive. It pushes people to focus on outcomes, and provides a simple, effective framework for prioritizing work.
+Consistently communicating intent — via daily plans, weekly objectives, or long term goals — is an inherently clarifying practice, and a way to shift your culture from reactive to proactive. It pushes people to focus on outcomes, and provides a simple, effective framework for prioritizing work.
 
 For managers, a culture of communicating intent is a *powerful* tool for eliminating risk. Managers have ample time to step in and course correct before days/weeks/months of time and resources get burned working in the wrong direction.
 
-For contributors, the upside is more trust, and more autonomy. Consistent communication and consistent delivery lets managers and peers know that you're more than capable of working without heavy-handed intervention.
+For contributors, the upside is more trust, and more autonomy. Consistent communication and consistent delivery lets managers and peers know that you’re more than capable of working without heavy-handed intervention.
 
 As the practice develops, the intentions become more pointed, course-corrections become rare, and opportunities for trust-eroding micro-management disappear.
 

@@ -4,11 +4,11 @@
 
 ## The theory
 
-Micromanagement doesn’t work. *Particularly* so when it comes to knowledge work. There’s few better ways to squash productivity, kill engagement, and increase turnover.
+Micromanagement doesn’t work. *Particularly* so when it comes to knowledge work. Few better ways exist to squash productivity, kill engagement, and increase turnover.
 
 People and teams do their best work when they understand _why_ the work matters and have a high degree of autonomy over how they pursue it. So instead of deploying top-down management practices that were designed for assembly line manufacturing work, focus on the outcomes or future state you want to see by setting high-level goals, and let teams and people figure out how to get from A to B.
 
-Contributors who help shape their work expectations and goals (“I do X, it’s necessary in order to get us to Y”) report higher satisfaction, productivity, and engagement. Because their work is nourished by their own sense of purpose, they're far more likely do it well, and less likely to overextend and burn out.
+Contributors who help shape their work expectations and goals (“I do X, it’s necessary in order to get us to Y”) report higher satisfaction, productivity, and engagement. Because their work is nourished by their own sense of purpose, they’re far more likely do it well, and less likely to overextend and burn out.
 
 Consistency and clarity is key. Relate work back to goals, and goals back to company-wide mission and vision. Anyone and everyone should be able to articulate how their work fits into the big picture.
 
