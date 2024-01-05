@@ -1,6 +1,6 @@
 # Introduction
 
-**_Continuous Coordination_ is a practice for companies and teams, comprised of seven principles. It centers around automated communication loops that proactively collate work artifacts, intent, and progress. Continuous Coordination delivers maximum context across teams and companies without sacrificing time for deep work, producing substantial gains in productivity, work quality, and engagement.**
+**_Continuous Coordination_ is a practice for companies and teams, comprised of seven principles. It centers around automated communication loops that proactively collate work artifacts, intent, and progress. Continuous Coordination delivers maximum context across organizations without sacrificing time for deep work, producing substantial gains in productivity, work quality, and engagement.**
 
 At its core, knowledge work is about making decisions. From writing code to structuring a marketing campaign to prioritizing a roadmap, knowledge workers need a stream of information — who, what, where, when, and how — to work effectively. But making timely and effective decisions also requires *context* — the *why* that drives the work of individuals and the business as a whole.
 
