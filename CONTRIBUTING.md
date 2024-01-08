@@ -24,10 +24,10 @@ We'd love to incorporate your contributions in the following areas:
 - "Further reading" sections for each principle. Ideally, we'd like to reference lasting, credible materials that are not fleeting artifacts of the current news cycle. See the "citations format" section below for formatting guidelines ([APA style](https://apastyle.apa.org/style-grammar-guidelines/references)).
 - Translations from English to other languages, starting with French and Spanish
 - Corrections for mistakes, typos, or readability issues
-- Edits to "The theory" sections in each principle for clarity or nuance
+- Edits to "The theory" sections in each principle for clarity or nuance, but sticking with the same tone and style as the rest of the document
 - Glossary terms (coming soon)
 
-The original authors and contributors carefully chose the principles and the order in which they appear based on decades of experience in tech and knowledge work. If you submit a contribution that alters the principles themselves, be sure to include a strong argument backed with evidence to support it alongside your submission.
+The original authors and contributors carefully chose the principles, their summaries, and the order in which they appear based on decades of experience in tech and knowledge work. If you submit a contribution that alters the principles themselves, be sure to include a strong argument backed with evidence to support it alongside your submission.
 
 ### Citations format for "Further reading"
 
