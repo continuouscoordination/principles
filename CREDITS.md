@@ -17,11 +17,11 @@ Adam’s unique experience working at both traditional tech orgs and remote pion
 
 ## Contributors
 
-### Michael Karampalas
+### Dinshaw Gobhai
 
-With 15+ years of experience leading Product Management and Customer Support teams at in-office and fully remote organizations, Michael's intimately familiar with the challenges facing modern teams and leaders. Michael's experience includes a long stint at GitLab, the largest all-remote company in the world, where he learned best practices for working asynchronously with a global team.
+Dinshaw has been building and maintaining commercial web applications since the early 2000's. He has worked as a developer and team lead on projects ranging from self-funded start-ups to publicly-traded, enterprise organizations. He is devoted to practicing and sharing the craft of software and believes that communication and simplicity are the pillars of success.
 
-- [LinkedIn](https://www.linkedin.com/in/mkarampalas/)
+- [LinkedIn](https://www.linkedin.com/in/dinshaw/)
 
 ### Joey Grillo
 
@@ -29,20 +29,32 @@ As a founding member of several remote-first businesses, and a remote product de
 
 - [LinkedIn](https://www.linkedin.com/in/joeygrillo/)
 
+### Michael Karampalas
+
+With 15+ years of experience leading Product Management and Customer Support teams at in-office and fully remote organizations, Michael's intimately familiar with the challenges facing modern teams and leaders. Michael's experience includes a long stint at GitLab, the largest all-remote company in the world, where he learned best practices for working asynchronously with a global team.
+
+- [LinkedIn](https://www.linkedin.com/in/mkarampalas/)
+
 ### Javan Makhmali
 
 As a former Rails contributor and author of popular open-source libraries like Stimulus, Turbo, and Trix, Javan has 15+ years of experience building software in remote contexts.
 
 - [LinkedIn](https://www.linkedin.com/in/javan-makhmali/)
 
+### Janice Maxwell
+
+Janice is a passionate advocate for technology, higher education, and project and portfolio management, driven by the belief that innovation and learning are the cornerstones of progress. She currently serves as the Chief of Staff for the Enterprise Innovation Institute (EI2) at Georgia Institute of Technology.
+
+- [LinkedIn](https://www.linkedin.com/in/janicemaxwell/)
+
+### Sam Udontong
+
+Sam is the Co-founder and CTO of Fireflies.ai, an AI startup in the virtual meeting and knowledge management space. His unique background includes a Bachelor’s degree in Aerospace, Aeronautical and Astronautical Engineering from MIT and positions at global aerospace giants Boeing and Lockheed Martin.
+
+- [LinkedIn](https://www.linkedin.com/in/sudotong/)
+
 ### Ryan Wright
 
 Ryan is a seasoned strategic sales professional with a long history of understanding and helping his customers solve for the challenges of modern work. His unique experience includes roles at Microsoft, LinkedIn, and non-profit NGOs.
 
 - [LinkedIn](https://www.linkedin.com/in/ryanarthurwright/)
-
-### Dinshaw Gobhai
-
-Dinshaw has been building and maintaining commercial web applications since the early 2000's. He has worked as a developer and team lead on projects ranging from self-funded start-ups to publicly-traded, enterprise organizations. He is devoted to practicing and sharing the craft of software and believes that communication and simplicity are the pillars of success.
-
-- [LinkedIn](https://www.linkedin.com/in/dinshaw/)
