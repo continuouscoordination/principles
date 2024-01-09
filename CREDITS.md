@@ -17,6 +17,10 @@ Adam’s unique experience working at both traditional tech orgs and remote pion
 
 ## Contributors
 
+### David Berkowitz
+
+David is an accomplished leader with a consistent track record of building great teams and delivering high-quality products across consumer electronics, multimedia domains, and complete hardware/software and system architecture projects. David is currently Director, Research Software Engineering and Agile Coach at Toyota Research Institute.
+
 ### Dinshaw Gobhai
 
 Dinshaw has been building and maintaining commercial web applications since the early 2000's. He has worked as a developer and team lead on projects ranging from self-funded start-ups to publicly-traded, enterprise organizations. He is devoted to practicing and sharing the craft of software and believes that communication and simplicity are the pillars of success.
