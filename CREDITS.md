@@ -52,9 +52,9 @@ Janice is a passionate advocate for technology, higher education, and project an
 
 - [LinkedIn](https://www.linkedin.com/in/janicemaxwell/)
 
-### Sam Udontong
+### Sam Udotong
 
-Sam is the Co-founder and CTO of Fireflies.ai, an AI startup in the virtual meeting and knowledge management space. His unique background includes a Bachelor’s degree in Aerospace, Aeronautical and Astronautical Engineering from MIT and positions at global aerospace giants Boeing and Lockheed Martin.
+Sam is the Co-founder and CTO of Fireflies.ai, an AI startup in the virtual meeting and knowledge management space. He studied computer science and aerospace engineering at MIT and now manages a team that operates out of 20 countries, with the aim of improving human communication globally.
 
 - [LinkedIn](https://www.linkedin.com/in/sudotong/)
 
