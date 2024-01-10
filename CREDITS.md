@@ -23,13 +23,13 @@ David is an accomplished leader with a consistent track record of building great
 
 ### Dinshaw Gobhai
 
-Dinshaw has been building and maintaining commercial web applications since the early 2000's. He has worked as a developer and team lead on projects ranging from self-funded start-ups to publicly-traded, enterprise organizations. He is devoted to practicing and sharing the craft of software and believes that communication and simplicity are the pillars of success.
+Dinshaw has been building and maintaining commercial web applications since the early 2000's. He has worked as a developer and team lead on projects ranging from self-funded start-ups to publicly-traded, enterprise organizations. He is devoted to practicing and sharing the craft of software and believes that communication and simplicity are the pillars of success. Dinshaw is a VP of Engineering at Steady Space Corp.
 
 - [LinkedIn](https://www.linkedin.com/in/dinshaw/)
 
 ### Joey Grillo
 
-As a founding member of several remote-first businesses, and a remote product development consultant to large enterprises for more than six years, Joey is well versed in the challenges that remote and distributed teams face every day.
+As a founding member of several remote-first businesses, and a remote product development consultant to large enterprises for more than six years, Joey is well versed in the challenges that remote and distributed teams face every day. Joey is a founding member of the design team at Steady Space Corp.
 
 - [LinkedIn](https://www.linkedin.com/in/joeygrillo/)
 
@@ -41,9 +41,10 @@ With 15+ years of experience leading Product Management and Customer Support tea
 
 ### Javan Makhmali
 
-As a former Rails contributor and author of popular open-source libraries like Stimulus, Turbo, and Trix, Javan has 15+ years of experience building software in remote contexts.
+As a former Rails contributor and author of popular open-source libraries like Stimulus, Turbo, and Trix, Javan has 15+ years of experience building software in remote contexts. Javan is a VP of Engineering and Architecture at Steady Space Corp.
 
 - [LinkedIn](https://www.linkedin.com/in/javan-makhmali/)
+- [javan.us](https://javan.us/)
 
 ### Janice Maxwell
 
