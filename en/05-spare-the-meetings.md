@@ -1,6 +1,6 @@
 # 05: Spare the meetings
 
-**The answer to everything can’t be “have a meeting”. Zoom fatigue is real, and people need big blocks of time to do deep work. Save meetings for the high-value stuff — collaborating, team-building — and use async tools for the rest.**
+**The answer to everything can’t be “have a meeting.” Zoom fatigue is real, and people need big blocks of time to do deep work. Save meetings for the high-value stuff — collaborating, team-building — and use async tools for the rest.**
 
 ## The theory
 

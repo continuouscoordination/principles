@@ -13,13 +13,15 @@ Henry has built successful software products and led high-performing software te
 Adam’s unique experience working at both traditional tech orgs and remote pioneers like Basecamp — along with 12 years of experience working remotely — give him a deep understanding of the problems that new-to-remote-and-hybrid teams struggle with on a day-to-day basis, and a clear sense of how to solve them.
 
 - [LinkedIn](https://www.linkedin.com/in/aaadaaam/)
-- [aaadaaam.com](https://aaadaaam.com/?utm_source=coco&utm_medium=website)
+- [aaadaaam.com](https://aaadaaam.com/)
 
 ## Contributors
 
 ### David Berkowitz
 
 David is an accomplished leader with a consistent track record of building great teams and delivering high-quality products across consumer electronics, multimedia domains, and complete hardware/software and system architecture projects. David is currently Director, Research Software Engineering and Agile Coach at Toyota Research Institute.
+
+- [LinkedIn](https://www.linkedin.com/in/davidberkowitz/)
 
 ### Dinshaw Gobhai
 
