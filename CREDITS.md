@@ -23,6 +23,13 @@ David is an accomplished leader with a consistent track record of building great
 
 - [LinkedIn](https://www.linkedin.com/in/davidberkowitz/)
 
+### Kris Chase
+
+With over 15 years of experience in software engineering, engineering leadership, and business management, Kris builds high-performing teams and delivers award-winning digital experiences. He's dedicated to promoting an environment that encourages innovation, education, and development.
+
+- [LinkedIn](https://www.linkedin.com/in/krisrchase/)
+- [krischase.com](https://krischase.com)
+
 ### Dinshaw Gobhai
 
 Dinshaw has been building and maintaining commercial web applications since the early 2000's. He has worked as a developer and team lead on projects ranging from self-funded start-ups to publicly-traded, enterprise organizations. He is devoted to practicing and sharing the craft of software and believes that communication and simplicity are the pillars of success. Dinshaw is a VP of Engineering at Steady Space Corp.
@@ -34,6 +41,12 @@ Dinshaw has been building and maintaining commercial web applications since the 
 As a founding member of several remote-first businesses, and a remote product development consultant to large enterprises for more than six years, Joey is well versed in the challenges that remote and distributed teams face every day. Joey is a founding member of the design team at Steady Space Corp.
 
 - [LinkedIn](https://www.linkedin.com/in/joeygrillo/)
+
+### Iona Hill
+
+Iona is a program and project manager with several accreditations, including a Prince2 Agile Foundation Certification. Iona is the Business Systems Coordinator for a United Kingdom-based automotive retailer group.
+
+- [LinkedIn](https://www.linkedin.com/in/ionazahrahill/)
 
 ### Michael Karampalas
 
@@ -53,6 +66,12 @@ As a former Rails contributor and author of popular open-source libraries like S
 Janice is a passionate advocate for technology, higher education, and project and portfolio management, driven by the belief that innovation and learning are the cornerstones of progress. She currently serves as the Chief of Staff for the Enterprise Innovation Institute (EI2) at Georgia Institute of Technology.
 
 - [LinkedIn](https://www.linkedin.com/in/janicemaxwell/)
+
+### Keith Soura
+
+Keith brings over a decade of experience in software development to his expansive role as the CTO of VERO, a startup in the fintech real-estate space. He studied computer science and mathematics at the University of Central Florida and Columbia University.
+
+- [LinkedIn](https://www.linkedin.com/in/kwsoura/)
 
 ### Sam Udotong
 
