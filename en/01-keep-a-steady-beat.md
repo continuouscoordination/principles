@@ -26,4 +26,4 @@ This dual loop strategy cuts the alignment trap [Gordian Knot](https://en.wikipe
 Harnish advocates for establishing a rhythmic communication pattern within an organization, which is crucial for ensuring everyone is aligned and moving towards the same goals.
 
 - [Fowler, M. (2006, May 1). Continuous Integration. _mortinfowler.com_.](https://martinfowler.com/articles/continuousIntegration.html)
-In this essay, Fowler describes the then-nascent concept of "Continuous Integration," how it works through automated asynchronous loops, and its benefits to the software delivery process.
+In this essay, Fowler describes the then-nascent concept of Continuous Integration, how it works through automated asynchronous loops, and its benefits to the software delivery process.
