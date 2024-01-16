@@ -22,6 +22,9 @@ GitLabs’ comprehensive guide on mastering asynchronous work and remote communi
 - [Bryar, C., Carr, B. (2021). _Working Backwards: Insights, Stories, and Secrets from Inside Amazon_. St. Martin’s Press.](https://lccn.loc.gov/2020037477)
 Amazon replaced PowerPoint presentations with narrative-driven memos to improve decision-making and information sharing, as detailed in this book. This approach emphasizes clarity and depth of ideas over presentation skills, enabling better analysis and shared understanding.
 
+- [Parrish, S. (). Writing to Think. _Farnam Street_.](https://fs.blog/writing-to-think/)
+This essay highlights the importance of writing for fostering deep thinking and understanding, contrasting this with the superficial convenience of AI-generated text, which diminishes the opportunity to develop critical thinking and unique perspectives.
+
 - [VandeHei, J., Allen, M., Schwartz, R. (2022). _Smart Brevity: The Power of Saying More with Less_. Workman Publishing.](https://lccn.loc.gov/2022045170)
 A guide from the journalists at Axios and Politico to effective communication in the digital age, focusing on delivering clear, concise, and impactful messages.
 
