@@ -23,6 +23,12 @@ David is an accomplished leader with a consistent track record of building great
 
 - [LinkedIn](https://www.linkedin.com/in/davidberkowitz/)
 
+### Ian Caramanzana
+
+As an editorial expert, Ian has led and worked with content teams remotely for a decade. Working with companies like Zappos, DoorDash, and T-Mobile, Ian skillfully turns complex concepts into engaging narratives. His work, characterized by strategic depth and empathetic storytelling, has shaped the digital identities of leading brands.
+
+- [LinkedIn](https://www.linkedin.com/in/ian-caramanzana-6a809a14a/)
+
 ### Kris Chase
 
 With over 15 years of experience in software engineering, engineering leadership, and business management, Kris builds high-performing teams and delivers award-winning digital experiences. He's dedicated to promoting an environment that encourages innovation, education, and development.
