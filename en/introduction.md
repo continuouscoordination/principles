@@ -1,6 +1,6 @@
 # Introduction
 
-**_Continuous Coordination_ is a practice for companies and teams, comprised of seven principles. It centers around automated communication loops that proactively collate work artifacts, intent, and progress. Continuous Coordination delivers maximum context across organizations without sacrificing time for deep work, producing substantial gains in productivity, work quality, and engagement.**
+**_Continuous Coordination_ is a practice for companies and teams comprised of seven principles. It centers around automated communication loops that proactively collate work artifacts, intent, and progress. Continuous Coordination delivers maximum context across organizations without sacrificing time for deep work, producing substantial gains in productivity, work quality, and engagement.**
 
 <svg viewBox="0 0 1600 750" fill="none" xmlns="http://www.w3.org/2000/svg">
   <title>Continuous Coordination Visualized</title>
