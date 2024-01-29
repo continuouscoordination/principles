@@ -60,6 +60,14 @@ With 15+ years of experience leading Product Management and Customer Support tea
 
 - [LinkedIn](https://www.linkedin.com/in/mkarampalas/)
 
+### Kevin Karsch
+
+Kevin has extensive academic and commercial experience in the computer vision and augmented reality hardware and software space. Currently, he leads cross-functional teams of engineers and researchers at Amazon Devices (Lab126). Previously, Kevin co-founded Lightform, a start-up that built design tools for projected AR. In addition to several patents, Kevin holds a Ph.D. in Computer Science from the University of Illinois Urbana-Champaign.
+
+- [LinkedIn](https://www.linkedin.com/in/kevinkarsch/)
+- [KevinKarsch.com](https://www.kevinkarsch.com/)
+
+
 ### Javan Makhmali
 
 As a former Rails contributor and author of popular open-source libraries like Stimulus, Turbo, and Trix, Javan has 15+ years of experience building software in remote contexts. Javan is a VP of Engineering and Architecture at Steady Space Corp.
