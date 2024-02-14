@@ -16,4 +16,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## License
 
-Continuous Coordination © 2023 by [Steady Space Corp](https://steady.space) is licensed under CC BY-SA 4.0
+Continuous Coordination © 2024 by [Steady Space Corp](https://steady.space) is licensed under CC BY-SA 4.0
