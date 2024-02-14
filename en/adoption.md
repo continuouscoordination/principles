@@ -1,10 +1,10 @@
 # Adopting Continuous Coordination
 
-**A 3-step guide for implementing the Continuous Coordination principles.**
+**A 3-step guide for implementing the Continuous Coordination principles**
 
 Every digital product and service organization is unique, with a variety of tools, processes, skillsets, and headcount that drive _how_ they work. And with modern work, input variables also include _where_ and _when_ the work gets done — hybrid, multi-office, distributed, etc.
 
-Because of these differences, there’s no precise formula for implementing Continuous Coordination. So here we outline broad guidelines in a 3-step pattern that’s known to work for others. You’ll have to tailor it further to fit your organization, but it’s a proven and solid start.
+Because of these differences, there’s no precise formula for implementing Continuous Coordination. So here we outline broad guidelines in a 3-step pattern known to work for others. You’ll have to tailor it further to fit your organization, but it’s a proven and solid start.
 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 1600 750">
   <title>Adopting Continuous Coordination in 3 Steps</title>
@@ -55,23 +55,23 @@ Because of these differences, there’s no precise formula for implementing Cont
   <path fill="currentColor" d="m362.84 550.27 14.3-8.25v16.5l-14.3-8.25Zm-69.32-89.43 8.25 14.3h-16.5l8.25-14.3Zm89.96-69.32-14.29 8.25v-16.5l14.3 8.25Zm68.79 88.9-8.25-14.28h16.5l-8.25 14.28Zm107.14-132.01a2 2 0 0 0 0-2.82l-12.72-12.73a2 2 0 1 0-2.83 2.83L555.17 347l-11.31 11.31a2 2 0 1 0 2.83 2.83l12.72-12.73ZM494 349h64v-4h-64v4Zm637.41-.59c.79-.78.79-2.04 0-2.82l-12.72-12.73a2 2 0 0 0-2.83 2.83l11.31 11.31-11.31 11.31a2 2 0 0 0 2.83 2.83l12.72-12.73ZM1066 349h64v-4h-64v4Z"/>
 </svg>
 
-It’s also important to note that Continuous Coordination is not designed to replace established tools, processes, or communication channels. Instead, it’s an _overlay_ layer that offers instant improvements by solving for the underlying problems that typically hold organizations back:  miscommunication, opaque vision, fractured context, micromanagement, and misalignment.
+It’s also important to note that Continuous Coordination is not designed to replace established tools, processes, or communication channels. Instead, it’s an _overlay_ layer that offers instant improvements by solving for the underlying problems that typically hold organizations back: miscommunication, opaque vision, fractured context, micromanagement, and misalignment.
 
 As you follow the steps, look for efficiencies, but we don’t recommend _replacing_ existing processes right away. As an overlay, Continuous Coordination will work alongside waterfall, agile, OKRs, and many other embedded processes.
 
-Shoot for a gradual, incremental approach, and let the principles themselves do the heavy lifting.
+Shoot for a gradual, incremental approach and let the principles do the heavy lifting.
 
 ## Step 1: Establish high-frequency, single-team communication loops
 
 **Implement _Keep a steady beat_ at the team level on a daily basis.**
 
-Within each team, automate a way for all contributors and managers to _briefly_ summarize their intentions for the day in writing and share it with the rest of the team. Use existing communication channels that have the best chance of getting these check-ins in front of the whole team. Configure notification prompts so that team members don’t have to remember to check-in. This will help the motion become habitual.
+Within each team, automate a way for all contributors and managers to _briefly_ summarize their intentions for the day in writing and share it with the rest of the team. Use existing communication channels that have the best chance of getting these check-ins in front of the whole team. Configure notification prompts so that team members don’t have to remember to check in. This will help the motion become habitual.
 
 ## Step 2: Establish low-frequency communication loops for team and cross-team objectives
 
 **Implement _Keep a steady beat_ at the organization level on a weekly or bi-weekly basis.**
 
-Automate a way for contributors and managers to update their progress, in writing, against shared objectives and share it with the rest of the organization. For example, a team could have a quarterly goal and update their progress against that goal every week or two. Keep these updates short and consumable but not shallow, with enough context and details to underpin further discussion if necessary. Use communication channels that ensure the updates are highly visible and not buried in folder or the dark corners of your knowledge base.
+Automate a way for contributors and managers to update their progress — in writing — against shared objectives and share it with the rest of the organization. For example, a team could have a quarterly goal and update their progress against that goal every week or two. Keep these updates short and consumable but not shallow, with enough context and details to underpin further discussion if necessary. Use communication channels that ensure the updates are highly visible and not buried in a folder or the dark corners of your knowledge base.
 
 ## Step 3: Lead by example
 
@@ -82,10 +82,10 @@ By following steps 1 and 2 with _Keep a steady beat_, you’ll naturally develop
 - Surfacing check-ins and goal updates to the whole organization is how to _Work in the open._
 - Cataloging plans and intentions within communication loops is the way to _Tell the future_.
 - Written check-ins and updates reinforce the _thinking_ that’s the basis for _Write it down_.
-- By keeping a steady beat with written communication loops, you can avoid low-value “catch-up” and status meetings eschewed in _Spare the meetings_.
+- Keeping a steady beat with written communication loops can avoid low-value “catch-up” and status meetings eschewed in _Spare the meetings_.
 
-Implementing _Lead with context_ will require a more deliberate, demonstrative effort on the part of managers and leaders. Use the communication loops to constant lay out _why_ the work matters so that contributors can function autonomously.  In the updates leaders provide in Step 2, clarify the ties back to parent goals and the mission of the organization.
+Implementing Lead with context will require a more deliberate, demonstrative effort by managers and leaders. Use the communication loops to constantly lay out why the work matters so that contributors can function autonomously. In the updates leaders provide in Step 2, clarify the ties back to parent goals and the organization’s mission.
 
-Finally, to apply the _Track output, not input_ principle, make sure the updates in Step 2 aren’t an examination of input metrics — like lines of code written, or meetings attended — that don’t correlate with the outcomes you’re shooting for. Focus on the metrics that matter in the updates.
+Finally, to apply the _Track output, not input_ principle, make sure the updates in Step 2 aren’t an examination of input metrics — like lines of code written or meetings attended — that don’t correlate with the outcomes you’re shooting for. Focus on the output metrics that matter in the updates.
 
-None of the principles are exclusive to managers or contributors. It’s _critical_ that managers lead by example and fully participate in the communication loops, both in writing thoughtful updates that demonstrate the principles and engaging in updates from others. For best results, model the behavior you want to see across the organization.
+None of the principles are exclusive to managers or contributors. It’s _critical_ that managers lead by example and fully participate in the communication loops, both in writing thoughtful updates that demonstrate the principles and engaging in updates from others. Model the behavior you want to see across the organization for best results.
