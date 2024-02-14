@@ -47,4 +47,6 @@ Once knowledge is shredded into bits, contributors and managers alike must *cons
 
 The good news? Thriving teams and organizations have flipped this script by distilling hard earned lessons learned over decades running knowledge work teams and embracing the distributed nature of modern work. They do this through *Continuous Coordination* — the application of seven core principles for knowledge work.
 
-Each of the principles is powerful on its own, but combined, they are a proven force for achieving and sustaining high levels of productivity, work quality, and meaningful engagement. Even better, the principles are self-reinforcing: the more your organization uses them, the easier they are to apply.
+Each of the principles is powerful on its own, but combined, they are a proven force for achieving and sustaining high levels of productivity, work quality, and meaningful engagement. Even better, the principles are self-reinforcing: the more your organization uses them, the easier they are to apply. To dig in, we recommend reviewing the principles in order, starting with _Keep a steady beat_.
+
+For more information on implementing the principles, see the 3-step [adoption guide](adoption).
