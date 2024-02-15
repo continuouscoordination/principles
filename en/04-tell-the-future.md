@@ -1,6 +1,6 @@
 # 04: Tell the future
 
-**You can learn from history, but you can change the future. That makes communicating intent across your org an _actual superpower_. When contributors do it, leaders can course correct before days/weeks/months get burned. When leaders do it, contributors can drive progress autonomously.**
+**You can learn from history, but you can change the future. That makes communicating intent across your org an _actual superpower_. When contributors do it, leaders can course-correct before days/weeks/months get burned. When leaders do it, contributors can drive progress autonomously.**
 
 ## The theory
 
