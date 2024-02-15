@@ -37,8 +37,8 @@ By following steps 1 and 2 with _Keep a steady beat_, you’ll naturally develop
 - Written check-ins and updates reinforce the _thinking_ that’s the basis for _Write it down_.
 - Keeping a steady beat with written communication loops can avoid low-value “catch-up” and status meetings eschewed in _Spare the meetings_.
 
-Implementing Lead with context will require a more deliberate, demonstrative effort by managers and leaders. Use the communication loops to constantly lay out why the work matters so that contributors can function autonomously. In the updates leaders provide in Step 2, clarify the ties back to parent goals and the organization’s mission.
+Implementing _Lead with context_ will require a more deliberate, demonstrative effort by managers and leaders. Use the communication loops to constantly lay out why the work matters so that contributors can function autonomously. In the updates leaders provide in Step 2, clarify the ties back to parent goals and the organization’s mission.
 
 Finally, to apply the _Track output, not input_ principle, make sure the updates in Step 2 aren’t an examination of input metrics — like lines of code written or meetings attended — that don’t correlate with the outcomes you’re shooting for. Focus on the output metrics that matter in the updates.
 
-None of the principles are exclusive to managers or contributors. It’s _critical_ that managers lead by example and fully participate in the communication loops, both in writing thoughtful updates that demonstrate the principles and engaging in updates from others. Model the behavior you want to see across the organization for best results.
+None of the principles are exclusive to managers or contributors. It’s therefore _critical_ that managers lead by example and fully participate in the communication loops, both in writing thoughtful updates that demonstrate the principles and engaging in updates from others. Model the behavior you want to see across the organization for best results.
