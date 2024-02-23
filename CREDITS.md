@@ -8,6 +8,7 @@
 Henry has built successful software products and led high-performing software teams for over two decades. His rich professional history includes engineering and leadership roles in a variety of organizations, from remote-first bootstrapped businesses and venture-backed startups to publicly-traded companies with globally distributed teams.
 
 - [LinkedIn](https://www.linkedin.com/in/henrypoydar/)
+- [henrypoydar.com](https://henrypoydar.com/)
 
 ### Adam Stoddard
 <!-- affiliation: Steady Space Corporation -->
