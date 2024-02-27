@@ -44,6 +44,9 @@ Amazon replaced PowerPoint presentations with narrative-driven memos to improve 
 - [Parrish, S. (2023, November 21). Writing to Think. _Farnam Street_.](https://fs.blog/writing-to-think/)
 This essay highlights the importance of writing for fostering deep thinking and understanding, contrasting this with the superficial convenience of AI-generated text, which diminishes the opportunity to develop critical thinking and unique perspectives.
 
+- [Zinsser, W. (1988). _Writing to Learn: How to Write - and Think - Clearly About Any Subject at All_. ](https://www.goodreads.com/book/show/585474.Writing_to_Learn)
+This classic encourages and guides readers to develop their writing skills to clarify their thoughts and communicate more effectively.
+
 - [VandeHei, J., Allen, M., Schwartz, R. (2022). _Smart Brevity: The Power of Saying More with Less_. Workman Publishing.](https://lccn.loc.gov/2022045170)
 A guide from the journalists at Axios and Politico to effective communication in the digital age, focusing on delivering clear, concise, and impactful messages.
 
