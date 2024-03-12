@@ -1,6 +1,6 @@
-# Introduction
+# Principles to cultivate a source of truth for digital teams
 
-**_Continuous Coordination_ is a practice for companies and teams comprised of seven principles. It centers around automated communication loops that proactively collate work artifacts, intent, and progress. Continuous Coordination delivers maximum context across organizations without sacrificing time for deep work, producing substantial gains in productivity, work quality, and engagement.**
+**_Continuous Coordination_ is the practice of using open, structured communication loops, alongside a set of proven collaboration principles, to give everyone in a digital product or service organization precisely the shared context they need, when they need it, to get productive, aligned, and engaged.**
 
 <svg viewBox="0 0 1600 750" fill="none" xmlns="http://www.w3.org/2000/svg">
   <title>Continuous Coordination Visualized</title>
