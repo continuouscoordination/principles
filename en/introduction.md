@@ -1,4 +1,4 @@
-# Principles to cultivate a source of truth for digital teams
+# Principles for modern work
 
 **_Continuous Coordination_ is the practice of using open, structured communication loops, alongside a set of proven collaboration principles, to give everyone in a digital product or service organization precisely the shared context they need, when they need it, to stay productive, aligned, and engaged.**
 
