@@ -1,4 +1,4 @@
-# Principles for modern work
+# Principles for modern knowledge work
 
 **_Continuous Coordination_ is the practice of using open, structured communication loops, alongside a set of proven collaboration principles, to give everyone in a digital product or service organization precisely the shared context they need, when they need it, to stay productive, aligned, and engaged.**
 
