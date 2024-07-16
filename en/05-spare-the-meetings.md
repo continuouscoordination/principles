@@ -48,6 +48,9 @@ Get rid of low-value meetings — status meetings, high-frequency all-hands, etc
 
 ## Further reading
 
+- [Thompson, D. (2024, July). White-Collar Work Is Just Meetings Now. _The Atlantic_.](https://www.theatlantic.com/ideas/archive/2024/07/white-collar-meetings-more-frequent/678941/)
+The meeting-industrial complex has grown to the point that communications has eclipsed creativity as the central skill of modern work.
+
 - [Laker, B., Pereira, V., Malik, A., Soga, L. (2022, March). Dear Manager, You’re Holding Too Many Meetings. _Harvard Business Review_.](https://hbr.org/2022/03/dear-manager-youre-holding-too-many-meetings)
 Research shows that 70% of meetings keep employees from doing productive work. Deliberate and asynchronous approaches can alleiviate the problem.
 

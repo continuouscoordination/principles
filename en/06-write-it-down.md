@@ -35,9 +35,6 @@ Start with asynchronous writing and use other tools — like meetings — only w
 
 ## Further reading
 
-- [Scott, J., Murph., D., et al. (2021, May 24). How to embrace asynchronous communication for remote work. _GitLab_.](https://handbook.gitlab.com/handbook/company/culture/all-remote/asynchronous/)
-GitLabs’ comprehensive guide on mastering asynchronous work and remote communication.
-
 - [Bryar, C., Carr, B. (2021). _Working Backwards: Insights, Stories, and Secrets from Inside Amazon_. St. Martin’s Press.](https://lccn.loc.gov/2020037477)
 Amazon replaced PowerPoint presentations with narrative-driven memos to improve decision-making and information sharing, as detailed in this book. This approach emphasizes clarity and depth of ideas over presentation skills, enabling better analysis and shared understanding.
 

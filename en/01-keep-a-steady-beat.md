@@ -36,5 +36,8 @@ This dual loop strategy cuts the alignment trap [Gordian Knot](https://en.wikipe
 - [Harnish, V. (2002). _Mastering the Rockefeller Habits: What You Must Do to Increase the Value of Your Growing Firm_ (1st ed.). SelectBooks.](https://lccn.loc.gov/2002510089)
 Harnish advocates for establishing a rhythmic communication pattern within an organization, which is crucial for ensuring everyone is aligned and moving towards the same goals.
 
+- [Scott, J., Murph., D., et al. (2021, May 24). How to embrace asynchronous communication for remote work. _GitLab_.](https://handbook.gitlab.com/handbook/company/culture/all-remote/asynchronous/)
+GitLabs’ comprehensive guide on mastering asynchronous work and remote communication.
+
 - [Fowler, M. (2006, May 1). Continuous Integration. _mortinfowler.com_.](https://martinfowler.com/articles/continuousIntegration.html)
 In this essay, Fowler describes the then-nascent concept of Continuous Integration, how it works through automated asynchronous loops, and its benefits to the software delivery process.
